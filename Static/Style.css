@@ -1,14 +1,14 @@
-/*.line{*/
-/*    text-decoration: line-through;*/
-/*    user-select:none;*/
-/*}*/
-/*::selection {*/
-/*    background: transparent;*/
-/*}*/
-/*::-moz-selection {*/
-/*    background: transparent;*/
-/*}*/
+.line{
+    text-decoration: line-through;
+    user-select:none;
+}
+::selection {
+    background: transparent;
+}
+::-moz-selection {
+    background: transparent;
+}
 
-/*.tasks {*/
-/*    margin-left: 50px;*/
-/*}*/
+.tasks {
+    margin-left: 50px;
+}
